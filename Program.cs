@@ -15,3 +15,5 @@ class Program
  }
  }
 }
+git status
+git switch -c feature-discount 
